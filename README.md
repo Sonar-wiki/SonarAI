@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.ibb.co/jbJcjFx/sonar.png" alt="SONAR Logo" width="200" height="200" />
+  <img src="public/img/sonar-logo.svg" alt="SONAR Logo" width="200" height="200" />
 </p>
 
 # SONAR - Solana On-chain Analytics & Research
