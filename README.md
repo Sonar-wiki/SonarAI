@@ -249,7 +249,6 @@ A: SONAR only collects information necessary for the service to function, includ
 - Email: support@sonar.tel
 - Twitter: [@SonarAIToken](https://x.com/SonarAIToken)
 - GitHub: [Sonar-wiki/sonar](https://github.com/Sonar-wiki/sonar)
-- Discord: [SONAR Community](https://discord.gg/sonar)
 
 ## License
 
