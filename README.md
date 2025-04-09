@@ -4,8 +4,8 @@
 
 # SONAR - Solana On-chain Analytics & Research
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/SonarAIToken?style=social)](https://x.com/SonarAIToken)
-[![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-green.svg)](https://github.com/Sonar-wiki/sonar)
+[![Twitter Follow](https://img.shields.io/twitter/follow/CalctraProtocol?style=social)](https://x.com/CalctraProtocol)
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-green.svg)](https://github.com/Sonar-wiki/SonarAI)
 [![Website](https://img.shields.io/badge/Website-sonar.tel-blue.svg)](http://sonar.tel/)
 
 ## Overview
@@ -204,7 +204,7 @@ NEXT_PUBLIC_WEBSITE_URL=http://sonar.tel
 
 We welcome contributions to SONAR! Please follow these steps:
 
-1. Fork the repository from [GitHub](https://github.com/Sonar-wiki/sonar)
+1. Fork the repository from [GitHub](https://github.com/Sonar-wiki/SonarAI)
 2. Create a feature branch (`git checkout -b feature/amazing-feature`)
 3. Make your changes
 4. Run tests to ensure everything works
@@ -247,8 +247,8 @@ A: SONAR only collects information necessary for the service to function, includ
 
 - Website: [http://sonar.tel](http://sonar.tel)
 - Email: support@sonar.tel
-- Twitter: [@SonarAIToken](https://x.com/SonarAIToken)
-- GitHub: [Sonar-wiki/sonar](https://github.com/Sonar-wiki/sonar)
+- Twitter: [@CalctraProtocol](https://x.com/CalctraProtocol)
+- GitHub: [Sonar-wiki/SonarAI](https://github.com/Sonar-wiki/SonarAI)
 
 ## License
 
