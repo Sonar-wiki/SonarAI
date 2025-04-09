@@ -4,7 +4,7 @@
 
 # SONAR - Solana On-chain Analytics & Research
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/SonarAIToken?style=social)](https://x.com/SonarAIToken)
+[![Twitter Follow](https://img.shields.io/twitter/follow/CalctraProtocol?style=social)](https://x.com/CalctraProtocol)
 [![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-green.svg)](https://github.com/Sonar-wiki/SonarAI)
 [![Website](https://img.shields.io/badge/Website-sonar.tel-blue.svg)](http://sonar.tel/)
 
@@ -247,7 +247,7 @@ A: SONAR only collects information necessary for the service to function, includ
 
 - Website: [http://sonar.tel](http://sonar.tel)
 - Email: support@sonar.tel
-- Twitter: [@SonarAIToken](https://x.com/SonarAIToken)
+- Twitter: [@CalctraProtocol](https://x.com/CalctraProtocol)
 - GitHub: [Sonar-wiki/SonarAI](https://github.com/Sonar-wiki/SonarAI)
 
 ## License
